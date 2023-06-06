@@ -14,7 +14,7 @@ public class pathFiles {
     public static String[] enter_paths() throws IOException, InterruptedException {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Type the path file: ");
+        System.out.print("Type the path pilot file: ");
         String pathPilot = scanner.nextLine();
         String escape_path_pilot= scape_path(pathPilot);
 
