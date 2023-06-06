@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="DPA_pilot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DPA_pilot_jar</output-path>
+    <root id="root">
+      <element id="archive" name="DPA_pilot.jar">
+        <element id="module-output" name="DPA_pilot" />
+      </element>
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.15.2" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.15.2" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.15.2" />
+    </root>
+  </artifact>
+</component>
